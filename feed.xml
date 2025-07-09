@@ -1,1 +1,16 @@
-hello
+<rss version="2.0">
+  <channel>
+    <title>Raindrop | Read-Later</title>
+    <link>https://example.com</link>
+    <description>Latest posts from Example Blog</description>
+    
+    <item>
+      <title>Netanyahu at the Crossroads</title>
+      <link>https://time.com/7300761/netanyahu-at-the-crossroads/</link>
+      <description>After 21 months of war, the Israeli leader may finally be in position to deliver a Gaza deal for Trump</description>
+      <pubDate>Wed, 09 Jul 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+    <!-- More <item> entries -->
+  </channel>
+</rss>
